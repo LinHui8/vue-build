@@ -30,6 +30,6 @@
     * --filters（过滤器）
     * --module（模块：例如用户的状态：用户信息）
 
-* .env（所有环境被载入）
-* .env.development（开发环境载入）
-* .env.production（打包环境载入）
+  ### .env（所有环境被载入）
+  ### .env.development（开发环境载入）
+  ### .env.production（打包环境载入）
